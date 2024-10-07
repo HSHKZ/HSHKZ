@@ -16,7 +16,7 @@
 [![Python badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![Shell Script badge](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-[![Roff badge](https://img.shields.io/badge/-Roff-4EAA25?style=flat&logo=roff&logoColor=white)](https://www.gnu.org/software/groff/)
+[![Roff badge](https://img.shields.io/badge/-Roff-87CEEB?style=flat&logo=roff&logoColor=white)](https://www.gnu.org/software/groff/)
 
 📈 **STATISTICS**
 
