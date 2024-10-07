@@ -15,5 +15,8 @@
 [![GitHub badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
 [![Python badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![Shell Script badge](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Roff badge](https://img.shields.io/badge/-Roff-4EAA25?style=flat&logo=roff&logoColor=blue)](https://www.gnu.org/software/roff/)
-[![HTML badge](https://img.shields.io/badge/-html)]
+[![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+
+📈 **STATISTICS**
+
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=radical)
