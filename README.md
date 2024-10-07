@@ -33,4 +33,5 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HSHKZ&theme=radical&no-frame=true&row=1&column=4&margin-w=15&margin-h=15)
 
-![Profile Views](https://img.shields.io/badge/👁️%20Views-<NUMBER>-lightblue?style=flat&logo=eye&logoColor=darkblue&color=darkblue)
+![Profile Views](https://komarev.com/ghpvc/?username=HSHKZ&label=👁️%20Views&color=darkblue&style=flat)
+![Profile Views](https://img.shields.io/badge/eye%20Views-<NUMBER>-lightblue?style=flat&logo=eye&logoColor=darkblue&color=darkblue)
