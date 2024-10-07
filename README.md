@@ -29,6 +29,12 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=radical)
 
+![Code Review](https://img.shields.io/badge/Code%20Review-100%25-brightgreen?style=flat)
+![Issues](https://img.shields.io/badge/Issues-50%25-brightgreen?style=flat)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-75%25-brightgreen?style=flat)
+![Commits](https://img.shields.io/badge/Commits-30%25-brightgreen?style=flat)
+
+
 🏆 **GITHUB TROPHIES**
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HSHKZ&theme=radical&no-frame=true&row=1&column=4&margin-w=15&margin-h=15)
