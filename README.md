@@ -27,8 +27,8 @@
 
 📈 **STATISTICS**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=oxygen)
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=neon-red)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=cherry)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=cherry)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=radical&count_private=true)
 
 🏆 **GITHUB TROPHIES**
