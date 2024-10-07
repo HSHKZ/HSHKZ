@@ -16,3 +16,4 @@
 [![Python badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![Shell Script badge](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Roff badge](https://img.shields.io/badge/-Roff-4EAA25?style=flat&logo=roff&logoColor=blue)](https://www.gnu.org/software/roff/)
+[![HTML badge](https://img.shields.io/badge/-html)]
