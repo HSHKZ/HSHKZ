@@ -32,7 +32,7 @@
 ![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=radical&hide_border=true)
 ![Total Contributions](https://github-contributions.vercel.app/api/?username=HSHKZ&theme=radical&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fchavonet&theme=dracula&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=radical&hide_border=true)
 ![Total Contributions](https://github-contributions.vercel.app/api/?username=fchavonet&theme=dracula&count_private=true)
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=fchavonet&theme=dracula)
 - **Longest Streak**: ![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=fchavonet&theme=dracula)
