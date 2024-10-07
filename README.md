@@ -33,4 +33,4 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HSHKZ&theme=radical&no-frame=true&row=1&column=4&margin-w=15&margin-h=15)
 
-![Profile Views](https://komarev.com/ghpvc/?username=HSHKZ&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=HSHKZ&label=C:\Users\lucas\AppData\Local\Temp\263071.png%20Profile%20Views&color=blue&style=flat)
