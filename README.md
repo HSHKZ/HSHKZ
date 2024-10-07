@@ -28,3 +28,7 @@
 📈 **STATISTICS**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=radical)
+
+🏆 **GITHUB TROPHIES**
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=HSHKZ&theme=radical&no-frame=true&row=1&column=4&margin-w=15&margin-h=15)
