@@ -1,22 +1,4 @@
-# ![GitHub profil banner](url_vers_votre_image_de_bannière)
-
 📝 **About me**
-
-As a new programming enthusiast, I'm eager to be part of a unique challenge!
-
-My career path is far from conventional...
-
-From my beginnings as a manager in fast food to managing customer service at SFR, then from my role as a technical expert at Apple to coordinating logistics operations at Tesla, I have consistently taken on new challenges and evolved in dynamic environments.
-
-It's time for me to take a leap of faith and write a new chapter. Becoming a software engineer ;)
-
-Thanks to Holberton School, I have built a solid foundation during my first year of learning the fundamentals of development.
-
-Now, I am specializing as a Full-Stack Developer and Software Engineer over the next two years, while working at Holberton School as a Software Engineer.
-
-My unique path underlines my determination to push boundaries and explore new horizons.
-
-Let's talk about how I can bring my experience and passion to your projects!
 
 🔨 **Tech stack**
 
@@ -37,17 +19,13 @@ Let's talk about how I can bring my experience and passion to your projects!
 
 [![Bootstrap badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![C badge](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C Sharp badge](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![Flask badge](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Git badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
 [![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![JavaScript badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Markdown badge](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org)
-[![MySQL badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Python badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![SASS badge](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com)
 [![Shell Script badge](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
   
 📈 **Statistics**
