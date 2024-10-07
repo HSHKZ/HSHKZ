@@ -28,19 +28,8 @@
 📈 **STATISTICS**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dracula&count_private=true)
 
-# Mon Profil GitHub
-
-![Profile Views](https://komarev.com/ghpvc/?username=HSHKZ&label=👁️%20Profile%20Views&color=blue&style=flat)
-
-## Contribution Metrics
-
-![Code Review](https://img.shields.io/badge/Code%20Review-100%25-brightgreen?style=flat-square&logo=github)
-![Issues](https://img.shields.io/badge/Issues-50%25-brightgreen?style=flat-square&logo=github)
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-75%25-brightgreen?style=flat-square&logo=github)
-![Commits](https://img.shields.io/badge/Commits-30%25-brightgreen?style=flat-square&logo=github)
-
-[![Total Contributions](https://img.shields.io/badge/Total%20Contributions-+4%20-%234CAF50?style=flat-square)](https://github.com/HSHKZ?tab=activity)
 
 🏆 **GITHUB TROPHIES**
 
