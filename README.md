@@ -4,7 +4,6 @@
 </p>
 ##
 ## 📝 **ABOUT ME**
-
 My name is lucas niel, and i am 19 years old. I reside in rodez, aveyron, france. As a new programming enthusiast, I'm eager to be part of a unique challenge !
 
 My career path is far from conventional...
@@ -31,7 +30,6 @@ Let's talk how I can bring my experience and passion to your projects!
 
 [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Discord badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com)
-
 ##
 ## 💻 **TECK STACK**
 
@@ -51,7 +49,6 @@ Let's talk how I can bring my experience and passion to your projects!
 [![Swagger badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)](https://swagger.io/)
 
 ## 📈 **STATISTICS**
-
 <div style="display: flex; justify-content: space-around;">
 
   <!-- GitHub Stats -->
@@ -60,15 +57,13 @@ Let's talk how I can bring my experience and passion to your projects!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="300">
 
 </div>
-
 ##
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/holberton-logo.png" alt="Logo Holberton" width="900"/>
 </p>
-
-<div style="display: flex; justify-content: space-around;">
 ##
+<div style="display: flex; justify-content: space-around;">
+
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/HSHKZ?style=social&logo=github&label=Followers" width="100">
 
