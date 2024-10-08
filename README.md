@@ -1,7 +1,8 @@
+##
 <p align="center">
   <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/hshkz-bann-red.png" alt="Bannière" width="600"/>
 </p>
-
+##
 ## 📝 **ABOUT ME**
 
 My name is lucas niel, and i am 19 years old. I reside in rodez, aveyron, france. As a new programming enthusiast, I'm eager to be part of a unique challenge !
@@ -25,13 +26,13 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 My unique path underlines my determination to push boundaries and explore new horizons.
 
 Let's talk how I can bring my experience and passion to your projects!
-
+##
 ## 🌐 **SOCIALS**
 
 [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Discord badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com)
 
-
+##
 ## 💻 **TECK STACK**
 
 [![Linux badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org)
@@ -67,7 +68,7 @@ Let's talk how I can bring my experience and passion to your projects!
 </p>
 
 <div style="display: flex; justify-content: space-around;">
-
+##
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/HSHKZ?style=social&logo=github&label=Followers" width="100">
 
