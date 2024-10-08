@@ -50,9 +50,6 @@ I look forward to the exciting opportunities that await me as i embark on my jou
   <!-- Recent Activity -->
   <img src="https://github-readme-activity-graph.cyclic.app/api/github-activity?username=HSHKZ&theme=dark&count_private=true" width="400">
 
-  <!-- Recent Activity -->
-  <img src="https://github-readme-activity-graph.cyclic.app/api/github-activity?username=HSHKZ&theme=dark" width="400" />
-
 </div>
 
 🏆 **GITHUB TROPHIES**
