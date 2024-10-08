@@ -57,11 +57,11 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 <div style="display: flex; justify-content: space-around;">
 
   <!-- Profile Views -->
-  <img src="https://img.shields.io/badge/Profile%20Views-0-lightgrey?style=flat&logo=github" width="100">
+  <img src="https://profile-views.counter.dev/github/HSHKZ?style=social&logo=github&label=Profile-Viewers" width="100">
 
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/HSHKZ?style=social&logo=github&label=Followers" width="100">
 
   <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/HSHKZ?style=social&logo=github&label=Stars" width="90">
+  <img src="https://img.shields.io/github/stars/HSHKZ?style=social&logo=github&label=Stars" width="80">
 
