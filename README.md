@@ -56,9 +56,6 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 
 <div style="display: flex; justify-content: space-around;">
 
-  <!-- Profile Views -->
-  <img src="https://profile-views.counter.dev/github/HSHKZ?style=social&logo=github&label=Profile-Viewers" width="100">
-
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/HSHKZ?style=social&logo=github&label=Followers" width="100">
 
