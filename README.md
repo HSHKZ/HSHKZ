@@ -36,19 +36,16 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 
 📈 **STATISTICS**
 
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true)
-
 <div style="display: flex; justify-content: space-around;">
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark" width="400">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark&hide_border=true" width="380">
+  <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark" width="380">
 
   <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true" width="400">
 
 </div>
 
