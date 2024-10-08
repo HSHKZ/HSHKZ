@@ -15,7 +15,7 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 [![Discord badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com)
 
 
-🔨 **TECK STACK**
+💻 **TECK STACK**
 
 [![Linux badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org)
 [![Windows badge](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
@@ -34,8 +34,6 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 [![Roff badge](https://img.shields.io/badge/-Roff-F5F5F0?style=flat&logo=roff&logoColor=white)](https://www.gnu.org/software/groff/)
 [![Swagger badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)](https://swagger.io/)
 
-[![Roff badge](https://img.shields.io/badge/-Roff-F5F5F0?style=flat&logo=roff&logoColor=white&logoWidth=4440)](https://www.gnu.org/software/groff/)
-
 📈 **STATISTICS**
 
 <div style="display: flex; justify-content: space-around;">
@@ -48,6 +46,9 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 
   <!-- Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true" width="400">
+
+  <!-- Monthly Contributions -->
+  <img src="https://github-contributions.vercel.app/api/?username=HSHKZ&theme=dark&count_private=true" width="400">
 
 </div>
 
