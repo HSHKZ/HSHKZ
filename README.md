@@ -51,9 +51,6 @@ Let's talk how I can bring my experience and passion to your projects!
 
 <div style="display: flex; justify-content: space-around;">
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark" width="400">
-
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark" width="379">
 
