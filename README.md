@@ -48,7 +48,7 @@ I look forward to the exciting opportunities that await me as i embark on my jou
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true" width="400">
 
   <!-- Monthly Contributions -->
-  <img src="https://github-contributions.vercel.app/api/?username=HSHKZ&theme=dark&count_private=true" width="400">
+  <img src="https://github-contributions.vercel.app/api/?username=HSHKZ&theme=onedark&count_private=true" width="400">
 
 </div>
 
