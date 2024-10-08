@@ -1,4 +1,4 @@
-📝 **ABOUT ME**
+## 📝 **ABOUT ME**
 
 My name is lucas niel, and i am 19 years old. I reside in rodez, aveyron, france. As a new programming enthusiast, I'm eager to be part of a unique challenge !
 
@@ -22,13 +22,13 @@ My unique path underlines my determination to push boundaries and explore new ho
 
 Let's talk how I can bring my experience and passion to your projects!
 
-🌐 **SOCIALS**
+## 🌐 **SOCIALS**
 
-[![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Discord badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com) width="400"
+# [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+# [![Discord badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com) width="400"
 
 
-💻 **TECK STACK**
+## 💻 **TECK STACK**
 
 [![Linux badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org)
 [![Windows badge](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
