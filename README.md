@@ -1,4 +1,4 @@
-![Bannière](https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/hshkz-bann-red.png)
+![Bannière](https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/hshkz-bann-red.png)
 
 ## 📝 **ABOUT ME**
 
