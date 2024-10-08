@@ -32,11 +32,9 @@ Let's talk how I can bring my experience and passion to your projects!
 
 [![Linux badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org)
 [![Windows badge](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-
 [![VIM badge](https://img.shields.io/badge/-VIM-199f00?style=flat&logo=vim&logoColor=white)](https://www.vim.org)
 [![Visual Studio Code badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Canva badge](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)](https://www.canva.com/)
-
 [![C badge](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Flask badge](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Git badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
@@ -70,4 +68,3 @@ Let's talk how I can bring my experience and passion to your projects!
 
   <!-- Stars -->
   <img src="https://img.shields.io/github/stars/HSHKZ?style=social&logo=github&label=Stars" width="80">
-
