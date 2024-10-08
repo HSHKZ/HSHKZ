@@ -62,7 +62,7 @@ Let's talk how I can bring my experience and passion to your projects!
 
 ## 🏆 **GITHUB TROPHIES**
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=HSHKZ&theme=radical&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
