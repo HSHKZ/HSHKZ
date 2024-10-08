@@ -39,13 +39,13 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 <div style="display: flex; justify-content: space-around;">
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark" width="450">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark" width="400">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark" width="425">
+  <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark" width="375">
 
   <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true" width="450">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true" width="400">
 
 </div>
 
