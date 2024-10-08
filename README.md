@@ -1,5 +1,15 @@
 📝 **ABOUT ME**
 
+My name is lucas niel, and i am 19 years old. I reside in rodez, aveyron, france. I started my computer development studies in the 2024 academic year, becoming a member of cohort c24. 
+
+As i progress through my studies, i am gradually mastering the essentials of programming and software development. I have found a particular passion for full-stack development, which enables me to work on both front-end and back-end applications. 
+
+I take great pleasure in exploring various programming languages and frameworks, allowing me to tackle a range of projects and challenges. 
+
+In my leisure time, i engage in personal projects to improve my coding and problem-solving skills. I am dedicated to continuously learning and evolving in the computer science field, believing that this strong foundation will set me up for a successful tech career. 
+
+I look forward to the exciting opportunities that await me as i embark on my journey through the dynamic world of software development.
+
 🌐 **SOCIALS**
 
 [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
@@ -27,7 +37,7 @@
 
 📈 **STATISTICS**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=black&red&count_private=true)
+
 
 🏆 **GITHUB TROPHIES**
 
