@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/hshkz-bann-red.png" alt="Bannière" width="600"/>
 </p>
 ##
+
 ## 📝 **ABOUT ME**
 My name is lucas niel, and i am 19 years old. I reside in rodez, aveyron, france. As a new programming enthusiast, I'm eager to be part of a unique challenge !
 
@@ -26,13 +27,14 @@ My unique path underlines my determination to push boundaries and explore new ho
 
 Let's talk how I can bring my experience and passion to your projects!
 ##
+
 ## 🌐 **SOCIALS**
 
 [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Discord badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com)
 ##
-## 💻 **TECK STACK**
 
+## 💻 **TECK STACK**
 [![Linux badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org)
 [![Windows badge](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![VIM badge](https://img.shields.io/badge/-VIM-199f00?style=flat&logo=vim&logoColor=white)](https://www.vim.org)
@@ -47,8 +49,10 @@ Let's talk how I can bring my experience and passion to your projects!
 [![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![Roff badge](https://img.shields.io/badge/-Roff-F5F5F0?style=flat&logo=roff&logoColor=white)](https://www.gnu.org/software/groff/)
 [![Swagger badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)](https://swagger.io/)
+##
 
 ## 📈 **STATISTICS**
+
 <div style="display: flex; justify-content: space-around;">
 
   <!-- GitHub Stats -->
@@ -58,10 +62,12 @@ Let's talk how I can bring my experience and passion to your projects!
 
 </div>
 ##
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/holberton-logo.png" alt="Logo Holberton" width="900"/>
 </p>
 ##
+
 <div style="display: flex; justify-content: space-around;">
 
   <!-- Followers -->
