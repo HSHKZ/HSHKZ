@@ -49,21 +49,17 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 
 </div>
 
+
 🏆 **GITHUB TROPHIES**
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HSHKZ&theme=radical&no-frame=true&row=1&column=4&margin-w=15&margin-h=15)
 
 <div style="display: flex; justify-content: space-around;">
 
-  <!-- Profile Views -->
-  <img src="https://shields.io/badge/Profile%20Views-100-brightgreen?style=flat&logo=github&logoColor=white" width="200" />
-
-<div style="display: flex; justify-content: space-around;">
-
   <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/HSHKZ?style=social" width="200" />
+  <img src="https://img.shields.io/github/followers/HSHKZ?style=social" width="100">
 
   <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/HSHKZ?style=social" width="200" />
+  <img src="https://img.shields.io/github/stars/HSHKZ?style=social" width="100">
 
 </div>
