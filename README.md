@@ -27,7 +27,6 @@
 
 📈 **STATISTICS**
 
-<div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark&red&hide_border=true" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&red&count_private=true" width="400">
   <img src="https://github-contributions.vercel.app/api/?username=HSHKZ&theme=dark&red&count_private=true" width="400">
