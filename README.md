@@ -34,7 +34,7 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 [![Roff badge](https://img.shields.io/badge/-Roff-F5F5F0?style=flat&logo=roff&logoColor=white)](https://www.gnu.org/software/groff/)
 [![Swagger badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)](https://swagger.io/)
 
-[![Roff badge](https://img.shields.io/badge/-Roff-F5F5F0?style=flat&logo=roff&logoColor=white&logoWidth=40)](https://www.gnu.org/software/groff/)
+[![Roff badge](https://img.shields.io/badge/-Roff-F5F5F0?style=flat&logo=roff&logoColor=white&logoWidth=4440)](https://www.gnu.org/software/groff/)
 
 📈 **STATISTICS**
 
