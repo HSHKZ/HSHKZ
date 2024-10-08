@@ -27,10 +27,10 @@
 
 📈 **STATISTICS**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=synthwave '84&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=synthwave'84&count_private=true)
 
 🏆 **GITHUB TROPHIES**
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HSHKZ&theme=radical&no-frame=true&row=1&column=4&margin-w=15&margin-h=15)
 
-![Profile Views](https://komarev.com/ghpvc/?username=HSHKZ&label=⦾%20Profile%20Views&color=clear-blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=HSHKZ&label=⦾%20Profile%20Views&color=style=flat)
