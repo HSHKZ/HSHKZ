@@ -48,7 +48,7 @@ I look forward to the exciting opportunities that await me as i embark on my jou
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true" width="400">
 
   <!-- Recent Activity -->
-  <img src="https://github-readme-activity-graph.cyclic.app/api/github-activity/?username=HSHKZ&layout=compact&theme=dark&count_private=true" width="200">
+  <img src="https://github-readme-activity-graph.vercel.app/api/github-activity/?username=HSHKZ&layout=compact&theme=dark&count_private=true" width="300">
 
 </div>
 
