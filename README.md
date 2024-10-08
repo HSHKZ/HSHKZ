@@ -44,7 +44,7 @@ Let's talk how I can bring my experience and passion to your projects!
 [![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![Roff badge](https://img.shields.io/badge/-Roff-F5F5F0?style=flat&logo=roff&logoColor=white)](https://www.gnu.org/software/groff/)
 [![Swagger badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)](https://swagger.io/)
-
+<img src="URL_DE_L_ICONE" alt="HTML" width="75" height="75">
 ## 📈 **STATISTICS**
 
 <div style="display: flex; justify-content: space-around;">
