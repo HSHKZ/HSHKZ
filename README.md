@@ -36,9 +36,7 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 
 📈 **STATISTICS**
 
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=fchavonet&theme=dracula)
-![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=fchavonet&theme=dracula)
-![Total Contributions](https://github-contributions.vercel.app/api/?username=fchavonet&theme=dracula&count_private=true)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dracula)
 
 🏆 **GITHUB TROPHIES**
 
