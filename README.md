@@ -36,7 +36,7 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 
 📈 **STATISTICS**
 
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=gruvbox)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=tokyo-night)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=onedark&count_private=true)
 
 🏆 **GITHUB TROPHIES**
