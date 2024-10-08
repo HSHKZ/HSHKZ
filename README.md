@@ -1,3 +1,5 @@
+![Bannière](https://raw.githubusercontent.com/HSHKZ/HSHKZ/resources/images/hshkz-bann-red.png)
+
 ## 📝 **ABOUT ME**
 
 My name is lucas niel, and i am 19 years old. I reside in rodez, aveyron, france. As a new programming enthusiast, I'm eager to be part of a unique challenge !
