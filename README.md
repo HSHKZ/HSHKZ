@@ -28,11 +28,11 @@
 📈 **STATISTICS**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HSHKZ&layout=large&show_icons=true&theme=dark&red)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=big&theme=dark&red&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=small&theme=dark&red&count_private=true)
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&layout=large&theme=dark&red)
 
 🏆 **GITHUB TROPHIES**
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HSHKZ&theme=radical&no-frame=true&row=1&column=4&margin-w=15&margin-h=15)
 
-![Profile Views](https://komarev.com/ghpvc/?username=HSHKZ&label=⦾%20Profile%20Views&color=blue&style=big)
+![Profile Views](https://komarev.com/ghpvc/?username=HSHKZ&label=⦾%20Profile%20Views&color=clear-blue&style=flat)
