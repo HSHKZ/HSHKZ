@@ -47,7 +47,7 @@ Let's talk how I can bring my experience and passion to your projects!
 [![Roff badge](https://img.shields.io/badge/-Roff-F5F5F0?style=flat&logo=roff&logoColor=white)](https://www.gnu.org/software/groff/)
 [![Swagger badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)](https://swagger.io/)
 
-📈 **STATISTICS**
+## 📈 **STATISTICS**
 
 <div style="display: flex; justify-content: space-around;">
 
@@ -59,7 +59,7 @@ Let's talk how I can bring my experience and passion to your projects!
 </div>
 
 
-🏆 **GITHUB TROPHIES**
+## 🏆 **GITHUB TROPHIES**
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HSHKZ&theme=radical&no-frame=true&row=1&column=4&margin-w=15&margin-h=15)
 
