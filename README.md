@@ -39,6 +39,19 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true)
 
+<div style="display: flex; justify-content: space-around;">
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=onedark&hide_border=true" width="400">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=onedark&hide_border=true" width="400">
+
+  <!-- Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=onedark&count_private=true&hide_border=true" width="400">
+
+</div>
+
 🏆 **GITHUB TROPHIES**
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HSHKZ&theme=radical&no-frame=true&row=1&column=4&margin-w=15&margin-h=15)
