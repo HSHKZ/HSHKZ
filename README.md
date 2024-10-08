@@ -62,7 +62,9 @@ Let's talk how I can bring my experience and passion to your projects!
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HSHKZ&theme=radical&no-frame=true&row=1&column=4&margin-w=15&margin-h=15)
 
-![Logo Holberton](https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/logo-holberton_school.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/logo-holberton_school.png" alt="Logo Holberton" width="400"/>
+</p>
 
 <div style="display: flex; justify-content: space-around;">
 
