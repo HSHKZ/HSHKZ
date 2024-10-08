@@ -42,7 +42,7 @@ I look forward to the exciting opportunities that await me as i embark on my jou
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark" width="400">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark" width="380">
+  <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark" width="300">
 
   <!-- Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true" width="400">
