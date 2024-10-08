@@ -67,7 +67,7 @@ Let's talk how I can bring my experience and passion to your projects!
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/holberton-logo.png" alt="Logo Holberton" width="400"/>
+  <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/holberton-logo.png" alt="Logo Holberton" width="600"/>
 </p>
 
 <div style="display: flex; justify-content: space-around;">
