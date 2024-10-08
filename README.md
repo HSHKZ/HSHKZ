@@ -27,7 +27,7 @@
 
 📈 **STATISTICS**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=bloodmoon&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=crimson&count_private=true)
 
 🏆 **GITHUB TROPHIES**
 
