@@ -47,8 +47,29 @@ I look forward to the exciting opportunities that await me as i embark on my jou
   <!-- Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true" width="400">
 
+</div>
+
+🌟 **RECENT ACTIVITY**
+
+<div style="display: flex; justify-content: center;">
+
   <!-- Recent Activity -->
-  <img src="https://github-readme-activity-graph.vercel.app/api/github-activity/?username=HSHKZ&layout=compact&theme=dark&count_private=true" width="300">
+  <img src="https://github-readme-activity-graph.cyclic.app/api/github-activity?username=HSHKZ&theme=onedark" width="400">
+
+</div>
+
+
+
+<div style="display: flex; justify-content: space-around;">
+
+  <!-- Profile Views -->
+  <img src="https://shields.io/badge/Profile%20Views-100-brightgreen?style=flat&logo=github&logoColor=white" width="200" />
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/badge/Followers-150-blue?style=flat&logo=github&logoColor=white" width="200" />
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/badge/Stars-50-yellow?style=flat&logo=github&logoColor=white" width="200" />
 
 </div>
 
@@ -56,4 +77,17 @@ I look forward to the exciting opportunities that await me as i embark on my jou
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HSHKZ&theme=radical&no-frame=true&row=1&column=4&margin-w=15&margin-h=15)
 
-![Profile Views](https://komarev.com/ghpvc/?username=HSHKZ&label=⦾%20Profile%20Views&color=blue&white&style=flat)
+<div style="display: flex; justify-content: space-around;">
+
+  <!-- Profile Views -->
+  <img src="https://shields.io/badge/Profile%20Views-100-brightgreen?style=flat&logo=github&logoColor=white" width="200" />
+
+<div style="display: flex; justify-content: space-around;">
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/HSHKZ?style=social" width="200" />
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/HSHKZ?style=social" width="200" />
+
+</div>
