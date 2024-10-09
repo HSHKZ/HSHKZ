@@ -67,6 +67,7 @@ Let's talk how I can bring my experience and passion to your projects!
 </p>
 
 <div style="display: flex; justify-content: space-around;">
+
 ##
 
   <!-- Followers -->
