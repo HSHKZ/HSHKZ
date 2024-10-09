@@ -1,7 +1,7 @@
 ##
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/banniere-hshkz-git-profile.png" alt="Bannière" width="800"/>
+  <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/banniere-hshkz-git-profile.png" alt="Bannière" width="1000"/>
 </p>
 
 ## 📝 **ABOUT ME**
@@ -79,7 +79,7 @@ Let's talk how I can bring my experience and passion to your projects!
 
 ## 📈 **STATISTICS**
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;"><div style="display: flex; flex-wrap: wrap;">
+<p align="center justified">
 
   <!-- GitHub Streaks -->
   <div style="flex: 1 0 50%; max-width: 100px;">
