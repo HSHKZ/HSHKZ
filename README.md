@@ -90,14 +90,9 @@ Let's talk how I can bring my experience and passion to your projects!
   </div>
   
   <!-- Commits Per Year -->
-  <div style="flex: 1 0 50%; max-width: 100px;">
-    <img src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" width="100%" height="50">
-  </div>
-  
+  <img src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" width="100%" height="50">
   <!-- GitHub Stats -->
-  <div style="flex: 1 0 50%; max-width: 100px;">
     <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark&hide_border=true" width="100%" height="50">
-  </div>
 
 </div>
 
