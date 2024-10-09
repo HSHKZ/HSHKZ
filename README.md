@@ -79,20 +79,16 @@ Let's talk how I can bring my experience and passion to your projects!
 
 ## 📈 **STATISTICS**
 
-<p align="center">
 <div style="display: flex; justify-content: space-around;">
 
   <!-- GitHub Sreaks -->
   <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark&hide_border=true" alt="Streak Stats" width="400">
   <!-- Top Langs -->
-  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="300">
   <!-- Commits Per Year -->
-  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" width="400">
   <!-- GitHub Stats -->
-  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark&hide_border=true" width="300">
 
 </div>
