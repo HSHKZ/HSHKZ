@@ -110,3 +110,20 @@ Let's talk how I can bring my experience and passion to your projects!
   
   <!-- Forks -->
   <img src="https://img.shields.io/github/forks/HSHKZ?style=social&logo=github&label=Forks" width="80">
+
+
+
+
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/HSHKZ?style=social&logo=github&label=Followers" width="100">
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/HSHKZ?style=social&logo=github&label=Stars" width="80">
+
+  <!-- Forks -->
+  <img src="https://img.shields.io/github/forks/HSHKZ?style=social&logo=github&label=Forks" width="80">
+
+  <!-- Profile Viewers -->
+  <img src="https://visitcount.itsvg.in/api?id=HSHKZ&icon=5&color=1" alt="Profile Views" width="100">
+
