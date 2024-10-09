@@ -29,6 +29,7 @@ Let's talk how I can bring my experience and passion to your projects!
 
 [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasniel/)
 [![Discord badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/lucassnc_/)
+[![Instagram badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lucasniiel)
 
 ## 💻 **TECK STACK**
 
