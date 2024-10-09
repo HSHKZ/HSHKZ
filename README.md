@@ -37,24 +37,42 @@ Let's talk how I can bring my experience and passion to your projects!
 
 ## 💻 **TECK STACK**
 
-<div style="border: 20px solid #e1e4e8; padding: 200px; border-radius: 100px; text-align: center;">
+<br>
+<p align="center">
+    <img src="https://img.shields.io/badge/LINUX-fcc624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux badge">
+    <img src="https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge" alt="Windows badge">
+</p>
 
-  [![Linux badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org)
-  [![Windows badge](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)  
-  [![VIM badge](https://img.shields.io/badge/-VIM-199f00?style=flat&logo=vim&logoColor=white)](https://www.vim.org)
-  [![Visual Studio Code badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-  [![Canva badge](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)](https://www.canva.com/)
-  [![C badge](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-  [![Flask badge](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-  [![Git badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
-  [![GitHub badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
-  [![Python badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
-  [![Shell Script badge](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-  [![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-  [![Roff badge](https://img.shields.io/badge/-Roff-F5F5F0?style=flat&logo=roff&logoColor=white)](https://www.gnu.org/software/groff/)
-  [![Swagger badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)](https://swagger.io/)
+<br>
+<p align="center">
+    <img src="https://img.shields.io/badge/BLENDER-E87d0d?logo=blender&logoColor=white&style=for-the-badge" alt="Blender badge">
+    <img src="https://img.shields.io/badge/DISCORD-5865f2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord badge">
+    <img src="https://img.shields.io/badge/DOCKER-2496ed?logo=docker&logoColor=white&style=for-the-badge" alt="Docker badge">
+    <img src="https://img.shields.io/badge/FIGMA-F24e1e?logo=figma&logoColor=white&style=for-the-badge" alt="Figma badge">
+    <img src="https://img.shields.io/badge/OBSIDIAN-7c3aed?logo=obsidian&logoColor=white&style=for-the-badge" alt="Obsidian badge">
+    <img src="https://img.shields.io/badge/PHOTOSHOP-31a8ff?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge">
+    <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge" alt="VIM badge">
+    <img src="https://img.shields.io/badge/UNITY-000000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity badge">
+    <img src="https://img.shields.io/badge/Visual Studio CODE-007acc?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="Visual Studio Code badge">
+</p>
 
-</div>
+<br>
+<p align="center">
+    <img src="https://img.shields.io/badge/BOOTSTRAP-7952b3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap badge">
+    <img src="https://img.shields.io/badge/C-a8b9cc?logo=&logoColor=black&style=for-the-badge" alt="C badge">
+    <img src="https://img.shields.io/badge/C%23-512bd4?logo=&logoColor=white&style=for-the-badge" alt="C Sharp badge">
+    <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge">
+    <img src="https://img.shields.io/badge/FLASK-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask badge">
+    <img src="https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge" alt="Git badge">
+    <img src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
+    <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge">
+    <img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript badge">
+    <img src="https://img.shields.io/badge/MARKDOWN-000000?logo=markdown&logoColor=white&style=for-the-badge" alt="Markdown badge">
+    <img src="https://img.shields.io/badge/MYSQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL badge">
+    <img src="https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge" alt="Python badge">
+    <img src="https://img.shields.io/badge/SASS-cc6699?logo=sass&logoColor=white&style=for-the-badge" alt="SASS badge">
+    <img src="https://img.shields.io/badge/SHELL SCRIPT-000000?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script badge">
+</p>
 
 ## 📈 **STATISTICS**
 
