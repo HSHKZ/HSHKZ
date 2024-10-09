@@ -2,7 +2,10 @@
   <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/banniere-hshkz-git-profile.png" alt="Bannière" width="800"/>
 </p>
 
+##
+
 ## 📝 **ABOUT ME**
+
 My name is lucas niel, and i am 19 years old. I reside in rodez, aveyron, france. As a new programming enthusiast, I'm eager to be part of a unique challenge !
 
 My career path is far from conventional...
@@ -61,9 +64,7 @@ Let's talk how I can bring my experience and passion to your projects!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="300">
 
 </div>
-
 ##
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/holberton-logo.png" alt="Logo Holberton" width="1000"/>
 </p>
