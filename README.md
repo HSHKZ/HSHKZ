@@ -79,6 +79,7 @@ Let's talk how I can bring my experience and passion to your projects!
 
 ## 📈 **STATISTICS**
 
+<p align="center">
 <div style="display: flex; justify-content: space-around;">
 
   <!-- GitHub Sreaks -->
