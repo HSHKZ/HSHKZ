@@ -92,7 +92,7 @@ Let's talk how I can bring my experience and passion to your projects!
 
 ##
 
-<p align="center">
+<p align="cent">
   <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/holberton-logo.png" alt="Bannière" width="1000"/>
 </p>
 
