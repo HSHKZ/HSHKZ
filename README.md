@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/hshkz-bann-red.png" alt="Bannière" width="800"/>
+  <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/banniere-hshkz-git-profile.png" alt="Bannière" width="800"/>
 </p>
 
 ## 📝 **ABOUT ME**
