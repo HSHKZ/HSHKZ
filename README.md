@@ -86,7 +86,6 @@ Let's talk how I can bring my experience and passion to your projects!
   <!-- Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="300">
   <!-- GitHub Achievements -->
-  <a href="https://github.com/HSHKZ">
   <img src="https://github-profile-achievements.vercel.app/api?username=HSHKZ" alt="GitHub Achievements">
 
 </div>
