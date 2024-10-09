@@ -109,4 +109,4 @@ Let's talk how I can bring my experience and passion to your projects!
   <img src="https://img.shields.io/github/stars/HSHKZ?style=social&logo=github&label=Stars" width="80">
   
   <!-- Forks -->
-  <img src="https://github.com/HSHKZ?tab=forks"
+  <img src="https://img.shields.io/github/forks/HSHKZ?style=social&logo=github&label=Forks" width="100">
