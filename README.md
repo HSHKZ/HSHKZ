@@ -78,8 +78,6 @@ Let's talk how I can bring my experience and passion to your projects!
 
 ## 📈 **STATISTICS**
 
-<p align="center justified">
-
   <!-- GitHub Streaks -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark&hide_border=true" alt="Streak Stats" width="100%" height="50">
   <!-- Top Langs -->
