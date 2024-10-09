@@ -85,19 +85,8 @@ Let's talk how I can bring my experience and passion to your projects!
 
 <br>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-streak-stats"><img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark&hide_border=true" alt="GitHub Streaks"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="120em" src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" alt="Commits Per Year"></a>
-</p>
-
-
-<br>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-streak-stats">
-    <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=transparent&hide_border=true" alt="GitHub Streaks">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Commits Per Year">
-</a>
+<a href="https://github.com/anuraghazra/github-readme-streak-stats"><img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=transparent&hide_border=true" alt="GitHub Streaks"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="120em" src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Commits Per Year"></a>
 </p>
 
 ##
