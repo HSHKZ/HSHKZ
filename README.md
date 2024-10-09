@@ -50,7 +50,7 @@ Let's talk how I can bring my experience and passion to your projects!
 <br>
 <p align="justified">
     <img src="https://img.shields.io/badge/LINUX-fcc624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux badge">
-    <img src="https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge" alt="Windows badge">
+    <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows badge">
     <img src="https://img.shields.io/badge/DISCORD-5865f2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord badge">
     <img src="https://img.shields.io/badge/PHOTOSHOP-31a8ff?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge">
     <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge" alt="VIM badge">
