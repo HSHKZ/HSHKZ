@@ -43,11 +43,6 @@ Let's talk how I can bring my experience and passion to your projects!
 <a href="https://discord.com/users/lucassnc_/">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord badge">
  </a>
-<a href="https://instagram.com/lucasniiel">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge">
- </a>
-<a href="https://facebook.com/lucasniiel">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook badge">
 </p>
 
 ## 💻 **TECK STACK**
