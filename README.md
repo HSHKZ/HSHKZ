@@ -37,7 +37,7 @@ Let's talk how I can bring my experience and passion to your projects!
 ## 🌐 **SOCIALS**
 
 <br>
-<p align="justified">
+<p align="center justified">
 <a href="https://www.linkedin.com/in/lucasniel/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
  </a>
@@ -54,7 +54,7 @@ Let's talk how I can bring my experience and passion to your projects!
 ## 💻 **TECK STACK**
 
 <br>
-<p align="justified">
+<p align="center justified">
     <img src="https://img.shields.io/badge/LINUX-fcc624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux badge">
     <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows badge">
     <img src="https://img.shields.io/badge/DISCORD-5865f2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord badge">
@@ -83,25 +83,31 @@ Let's talk how I can bring my experience and passion to your projects!
 
   <!-- GitHub Streaks -->
   <div style="flex: 1 0 50%; max-width: 100px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark&hide_border=true" alt="Streak Stats" width="100%" height="200">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark&hide_border=true" alt="Streak Stats" width="100%" height="50">
   </div>
   
   <!-- Top Langs -->
   <div style="flex: 1 0 50%; max-width: 100px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="100%" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="100%" height="500">
   </div>
   
   <!-- Commits Per Year -->
   <div style="flex: 1 0 50%; max-width: 100px;">
-    <img src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" width="100%" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" width="100%" height="50">
   </div>
   
   <!-- GitHub Stats -->
   <div style="flex: 1 0 50%; max-width: 100px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark&hide_border=true" width="100%" height="200">
+    <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark&hide_border=true" width="100%" height="50">
   </div>
 
 </div>
+
+##
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/holberton-logo.png" alt="Bannière" width="800"/>
+</p>
 
 ##
 
