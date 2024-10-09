@@ -1,8 +1,8 @@
+##
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/banniere-hshkz-git-profile.png" alt="Bannière" width="800"/>
 </p>
-
-##
 
 ## 📝 **ABOUT ME**
 
@@ -64,7 +64,9 @@ Let's talk how I can bring my experience and passion to your projects!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="300">
 
 </div>
+
 ##
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/holberton-logo.png" alt="Logo Holberton" width="1000"/>
 </p>
