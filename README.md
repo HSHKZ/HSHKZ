@@ -80,14 +80,13 @@ Let's talk how I can bring my experience and passion to your projects!
 
 <br>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=HSHKZ&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="GitHub statistics"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=HSHKZ&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs&theme=dark" alt="GitHub statistics"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab&theme=dark" alt="Top languages"></a>
 
 <br>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=HSHKZ&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs&theme=dark" alt="GitHub statistics"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab&theme=dark" alt="Top languages"></a>
+<a href="https://github.com/anuraghazra/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark&hide_border=true" alt="GitHub Streaks"></a>
+
 </p>
 
 ##
