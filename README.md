@@ -28,6 +28,8 @@ My unique path underlines my determination to push boundaries and explore new ho
 
 Let's talk how I can bring my experience and passion to your projects!
 
+##
+
 - 🔭 CURRENTLY WORKING ON : RESTful API & HBnB - BL and API (part2)
 - 🌱 LEARNING : The basics of IT development
 - 🎯 GOALS : Become an IT developer in cybersecurity or full-stack
