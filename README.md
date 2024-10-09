@@ -89,7 +89,6 @@ Let's talk how I can bring my experience and passion to your projects!
   <img src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" width="400">
   <!-- GitHub Contribution Graph -->
   
-
 </div>
 
 ##
@@ -107,22 +106,3 @@ Let's talk how I can bring my experience and passion to your projects!
 
   <!-- Stars -->
   <img src="https://img.shields.io/github/stars/HSHKZ?style=social&logo=github&label=Stars" width="80">
-  
-  <!-- Forks -->
-  <img src="https://img.shields.io/github/forks/HSHKZ?style=social&logo=github&label=Forks" width="80">
-
-
-
-
-
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/HSHKZ?style=social&logo=github&label=Followers" width="100">
-
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/HSHKZ?style=social&logo=github&label=Stars" width="80">
-
-  <!-- Forks -->
-  <img src="https://img.shields.io/github/forks/HSHKZ?style=social&logo=github&label=Forks" width="80">
-
-  <!-- Profile Viewers -->
-  <img src="https://img.shields.io/github/fprofile-viewers/HSHKZ?style=social&logo=github&label=Profile Viewers" width="80">
