@@ -82,53 +82,26 @@ Let's talk how I can bring my experience and passion to your projects!
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;"><div style="display: flex; flex-wrap: wrap;">
 
   <!-- GitHub Streaks -->
-  <div style="flex: 1 0 50%; max-width: 400px;">
+  <div style="flex: 1 0 50%; max-width: 100px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark&hide_border=true" alt="Streak Stats" width="100%" height="200">
   </div>
   
   <!-- Top Langs -->
-  <div style="flex: 1 0 50%; max-width: 400px;">
+  <div style="flex: 1 0 50%; max-width: 100px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="100%" height="200">
   </div>
   
   <!-- Commits Per Year -->
-  <div style="flex: 1 0 50%; max-width: 400px;">
+  <div style="flex: 1 0 50%; max-width: 100px;">
     <img src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" width="100%" height="200">
   </div>
   
   <!-- GitHub Stats -->
-  <div style="flex: 1 0 50%; max-width: 400px;">
+  <div style="flex: 1 0 50%; max-width: 100px;">
     <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark&hide_border=true" width="100%" height="200">
   </div>
 
 </div>
-
-
-  <!-- GitHub Streaks -->
-  <div style="flex: 1; min-width: 300px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark&hide_border=true" alt="Streak Stats" width="1000%" height="100">
-  </div>
-  
-  <!-- Top Langs -->
-  <div style="flex: 1; min-width: 300px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="1000%" height="100">
-  </div>
-  
-  <!-- Commits Per Year -->
-  <div style="flex: 1; min-width: 300px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" width="1000%" height="150">
-  </div>
-  
-  <!-- GitHub Stats -->
-  <div style="flex: 1; min-width: 300px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark&hide_border=true" width="1000%" hei
-##
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HSHKZ/HSHKZ/main/resources/images/holberton-logo.png" alt="Logo Holberton" width="1000"/>
-</p>
-
-<div style="display: flex; justify-content: space-around;">
 
 ##
 
