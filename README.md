@@ -36,9 +36,9 @@ Let's talk how I can bring my experience and passion to your projects!
     <img src="[![Discord badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/lucassnc_/)
     <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lucasniiel)
     <img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=flat&logo=facebook&logoColor=white&style=for-the-badge" https://facebook.com/lucasniiel alt="Facebook badge">
+<a href="https://facebook.com/lucasniiel">
+    <img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook badge">
 </p>
-
-
 
 ## 💻 **TECK STACK**
 
@@ -90,6 +90,3 @@ Let's talk how I can bring my experience and passion to your projects!
 
   <!-- Stars -->
   <img src="https://img.shields.io/github/stars/HSHKZ?style=social&logo=github&label=Stars" width="80">
-
-  <!-- Profile Viewers -->
-  <img src="https://visitcount.itsvg.in/api?id=HSHKZ?style=social&logo=github&label=Profile Viewers" width="100">
