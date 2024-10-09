@@ -84,7 +84,6 @@ Let's talk how I can bring my experience and passion to your projects!
   <div style="flex: 1 0 50%; max-width: 100px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark&hide_border=true" alt="Streak Stats" width="100%" height="50">
   </div>
-  
   <!-- Top Langs -->
   <div style="flex: 1 0 50%; max-width: 100px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="100%" height="500">
@@ -112,6 +111,5 @@ Let's talk how I can bring my experience and passion to your projects!
 
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/HSHKZ?style=social&logo=github&label=Followers" width="100">
-
   <!-- Stars -->
   <img src="https://img.shields.io/github/stars/HSHKZ?style=social&logo=github&label=Stars" width="80">
