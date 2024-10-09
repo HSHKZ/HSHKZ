@@ -81,18 +81,14 @@ Let's talk how I can bring my experience and passion to your projects!
 <p align="center justified">
 
   <!-- GitHub Streaks -->
-  <div style="flex: 1 0 50%; max-width: 100px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark&hide_border=true" alt="Streak Stats" width="100%" height="50">
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&theme=dark&hide_border=true" alt="Streak Stats" width="100%" height="50">
   <!-- Top Langs -->
   <div style="flex: 1 0 50%; max-width: 100px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="100%" height="500">
-  </div>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="100%" height="500">
   <!-- Commits Per Year -->
   <img src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" width="100%" height="50">
   <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark&hide_border=true" width="100%" height="50">
+  <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark&hide_border=true" width="100%" height="50">
 
 </div>
 
