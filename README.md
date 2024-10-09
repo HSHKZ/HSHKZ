@@ -88,7 +88,7 @@ Let's talk how I can bring my experience and passion to your projects!
   <!-- Commits Per Year -->
   <img src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" width="400">
   <!-- GitHub Contribution Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HSHKZ&theme=dark&hide_border=true" alt="Contribution Graph" width="400">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph/?username=HSHKZ&theme=dark&hide_border=true" alt="Contribution Graph" width="400">
 
 </div>
 
