@@ -34,8 +34,8 @@ Let's talk how I can bring my experience and passion to your projects!
 <p align="justified">
     <img src="[![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasniel/)
     <img src="[![Discord badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/lucassnc_/)
-    <img src="[![Instagram badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lucasniiel)
-    <img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/lucasniiel)
+    <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lucasniiel)
+    <img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=flat&logo=facebook&logoColor=white&style=for-the-badge" https://facebook.com/lucasniiel alt="Facebook badge">
 </p>
 
 ## 💻 **TECK STACK**
