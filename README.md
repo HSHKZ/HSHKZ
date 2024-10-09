@@ -125,5 +125,4 @@ Let's talk how I can bring my experience and passion to your projects!
   <img src="https://img.shields.io/github/forks/HSHKZ?style=social&logo=github&label=Forks" width="80">
 
   <!-- Profile Viewers -->
-  <img src="https://visitcount.itsvg.in/api?id=HSHKZ&icon=5&color=1" alt="Profile Views" width="100">
-
+  <img src="https://img.shields.io/github/fprofile-viewers/HSHKZ?style=social&logo=github&label=Profile Viewers" width="80">
