@@ -33,7 +33,7 @@ Let's talk how I can bring my experience and passion to your projects!
 <br>
 <p align="justified">
 <a href="https://www.linkedin.com/in/lucasniel/">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
 <a href="https://discord.com/users/lucassnc_/">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord badge">
 <a href="https://instagram.com/lucasniiel">
