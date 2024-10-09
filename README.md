@@ -58,7 +58,7 @@ Let's talk how I can bring my experience and passion to your projects!
     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=whitestyle=for-the-badge" alt="C badge">
     <img src="https://img.shields.io/badge/FLASK-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask badge">
     <img src="https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge" alt="Git badge">
-    <img src="https://img.shields.io/badge/HOLBERTON-FF4D6A?style=for-the-badge&logo=seahorse&logoColor=white" alt="Holberton badge"> 
+    <img src="https://img.shields.io/badge/HOLBERTON-FF3655?style=for-the-badge&logo=seahorse&logoColor=white" alt="Holberton badge">
     <img src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
     <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge">
     <img src="https://img.shields.io/badge/MARKDOWN-000000?logo=markdown&logoColor=white&style=for-the-badge" alt="Markdown badge">
