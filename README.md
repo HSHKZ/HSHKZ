@@ -85,10 +85,8 @@ Let's talk how I can bring my experience and passion to your projects!
   <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark&hide_border=true" width="400">
   <!-- Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="300">
-  <!-- Issues -->
-  <img src="https://img.shields.io/github/issues/HSHKZ/holbertonschool-printf?style=flat&layout=compact&theme=dark" width="300">
-  <!-- Pull Requests -->
-  <img src="https://img.shields.io/github/issues-pr/HSHKZ/holbertonschool-printf?style=flat&layout=compact&theme=dark" width="300">
+  <!-- Wakatime Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HSHKZ&theme=dark&hide_border=true" width="400">
 
 </div>
 
@@ -107,8 +105,3 @@ Let's talk how I can bring my experience and passion to your projects!
 
   <!-- Stars -->
   <img src="https://img.shields.io/github/stars/HSHKZ?style=social&logo=github&label=Stars" width="80">
-
-<p align="center">
-
-  <!-- Profile Viewers -->
-  <img src="https://visitcount.itsvg.in/api?id=HSHKZ&icon=5&color=1" alt="Visitor Count">
