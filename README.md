@@ -59,17 +59,21 @@ Let's talk how I can bring my experience and passion to your projects!
     <img src="https://img.shields.io/badge/DISCORD-5865f2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord badge">
     <img src="https://img.shields.io/badge/PHOTOSHOP-31a8ff?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge">
     <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge" alt="VIM badge">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
     <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007acc?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="Visual Studio Code badge">
     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=whitestyle=for-the-badge" alt="C badge">
     <img src="https://img.shields.io/badge/FLASK-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask badge">
     <img src="https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge" alt="Git badge">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook badge">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge">
     <img src="https://img.shields.io/badge/HOLBERTON-FF3655?style=for-the-badge&logo=seahorse&logoColor=white" alt="Holberton badge">
     <img src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
     <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge">
     <img src="https://img.shields.io/badge/MARKDOWN-000000?logo=markdown&logoColor=white&style=for-the-badge" alt="Markdown badge">
-    <img src="https://img.shields.io/badge/OPENOFFICE-007FFF?style=for-the-badge&logo=openoffice&logoColor=white" alt="OpenOffice badge">    
+    <img src="https://img.shields.io/badge/OPENOFFICE-007FFF?style=for-the-badge&logo=openoffice&logoColor=white" alt="OpenOffice badge">
     <img src="https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge" alt="Python badge">
     <img src="https://img.shields.io/badge/SHELL SCRIPT-000000?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script badge">
+    <img src="https://img.shields.io/badge/ROFF-FAFAFA?style=for-the-badge&logo=rosette&logoColor=black" alt="Roff badge">
     <img src="https://img.shields.io/badge/SWAGGER-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger badge">
     <img src="https://img.shields.io/badge/APACHE-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache badge">
     <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva badge">
