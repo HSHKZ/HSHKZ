@@ -90,3 +90,7 @@ Let's talk how I can bring my experience and passion to your projects!
 
   <!-- Stars -->
   <img src="https://img.shields.io/github/stars/HSHKZ?style=social&logo=github&label=Stars" width="80">
+
+  <!-- Profile Viewers -->
+  <img src="https://visitcount.itsvg.in/api?id=HSHKZ&icon=5&color=1" alt="Visit Count" style="border-radius: 5px;">
+    <img src="https://img.shields.io/github/followers/HSHKZ?style=social&logo=github&label=Followers&color=181717" width="100" alt="Followers badge" style="border-radius: 5px;">
