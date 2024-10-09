@@ -67,6 +67,7 @@ Let's talk how I can bring my experience and passion to your projects!
     <img src="https://img.shields.io/badge/SWAGGER-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger badge">
     <img src="https://img.shields.io/badge/APACHE-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache badge">
     <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva badge">
+    <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu badge">
 </p>
 
 ## 📈 **STATISTICS**
