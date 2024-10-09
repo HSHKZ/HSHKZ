@@ -86,7 +86,7 @@ Let's talk how I can bring my experience and passion to your projects!
 
 <br>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-streak-stats"><img height="120em" src="https://streak-stats.demolab.com/?user=HSHKZ&theme=dark&hide_border=true&background=transparent" alt="GitHub Streaks"></a>
+    <a href="https://github.com/anuraghazra/github-readme-streak-stats"><img height="125em" src="https://streak-stats.demolab.com/?user=HSHKZ&theme=dark&hide_border=true&background=transparent" alt="GitHub Streaks"></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img height="120em" src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&bg_color=00000000&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" alt="Commits Per Year"></a>
 </p>
 
