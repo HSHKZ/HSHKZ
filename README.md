@@ -85,8 +85,8 @@ Let's talk how I can bring my experience and passion to your projects!
   <img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&show_icons=true&theme=dark&hide_border=true" width="400">
   <!-- Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&theme=dark&count_private=true&hide_border=true" width="300">
-  <!-- Lines -->
-  <img src="https://img.shields.io/tokei/lines/github/HSHKZ" alt="Lines of Code" width="400">
+  <!-- Commits Per Year -->
+<img src="https://github-readme-stats.vercel.app/api?username=HSHKZ&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" width="400">
 
 </div>
 
