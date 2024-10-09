@@ -80,14 +80,14 @@ Let's talk how I can bring my experience and passion to your projects!
 
 <br>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-streak-stats"><img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&bg_color=00000000&theme=dark&hide_border=true" alt="GitHub Streaks"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="120em" src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&bg_color=00000000&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" alt="Commits Per Year"></a>
+                 <a href="https://github.com/anuraghazra/github-readme-streak-stats"><img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=HSHKZ&bg_color=00000000&theme=dark&hide_border=true" alt="GitHub Streaks"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="120em" src="https://github-readme-stats.vercel.app/api/?username=HSHKZ&bg_color=00000000&count_private=true&show_icons=true&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=dark&hide_border=true" alt="Commits Per Year"></a>
 </p>
 
 <br>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=fchavonet&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="GitHub statistics"></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchavonet&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=HSHKZ&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="GitHub statistics"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSHKZ&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
 </p>
 
 ##
