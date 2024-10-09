@@ -54,8 +54,8 @@ Let's talk how I can bring my experience and passion to your projects!
     <img src="https://img.shields.io/badge/DISCORD-5865f2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord badge">
     <img src="https://img.shields.io/badge/PHOTOSHOP-31a8ff?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge">
     <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge" alt="VIM badge">
-    <img src="https://img.shields.io/badge/Visual Studio CODE-007acc?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="Visual Studio Code badge">
-    <img src="https://img.shields.io/badge/C-a8b9cc?logo=&logoColor=black&style=for-the-badge" alt="C badge">
+    <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007acc?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="Visual Studio Code badge">
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=whitestyle=for-the-badge" alt="C badge">
     <img src="https://img.shields.io/badge/FLASK-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask badge">
     <img src="https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge" alt="Git badge">
     <img src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
