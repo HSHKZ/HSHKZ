@@ -73,6 +73,7 @@ My unique path highlights my determination to push boundaries and explore new ho
     <img src="https://img.shields.io/badge/APACHE-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache badge">
     <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva badge">
     <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu badge">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge">   
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
     <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge">
     <img src="https://img.shields.io/badge/ASSEMBLY-6D4C41?style=for-the-badge" alt="Assembly badge">
