@@ -6,27 +6,25 @@
 
 ## 📝 **ABOUT ME**
 
-My name is lucas niel, and i am 19 years old. I reside in rodez, aveyron, france. As a new programming enthusiast, I'm eager to be part of a unique challenge !
+My name is Lucas Niel, and I am 19 years old. I live in Rodez, Aveyron, France. As a budding programmer, I’m eager to take on unique challenges!
 
-My career path is far from conventional...
+My career path is anything but conventional...
 
-I started my computer development studies in the 2024 academic year, becoming a member of cohort c24.
+I began my computer development studies in 2024 as part of cohort C24 at Holberton School.
 
-As i progress through my studies, i am gradually mastering the essentials of programming and software development.
+As I progress through my studies, I am steadily mastering the core essentials of programming and software development.
 
-I have found a particular passion for full-stack development, which enables me to work on both front-end and back-end applications.
+I have developed a strong passion for full-stack development, as it allows me to work on both front-end and back-end applications—something I truly enjoy.
 
-I take great pleasure in exploring various programming languages and frameworks, allowing me to tackle a range of projects and challenges.
+I love exploring various programming languages and frameworks, which helps me tackle a wide range of projects and challenges.
 
-In my leisure time, i engage in personal projects to improve my coding and problem-solving skills.
+In my free time, I work on personal projects to improve my coding and problem-solving skills. I am currently developing my own application for our end-of-year competition, which has been an exciting and rewarding experience.
 
-I am dedicated to continuously learning and evolving in the computer science field, believing that this strong foundation will set me up for a successful tech career.
+I am committed to continuous learning and growth in the field of computer science, knowing that this strong foundation will lead to a successful career in tech.
 
-I look forward to the exciting opportunities that await me as i embark on my journey through the dynamic world of software development.
+I look forward to the incredible opportunities that await me as I continue my journey through the dynamic world of software development.
 
-My unique path underlines my determination to push boundaries and explore new horizons.
-
-Let's talk how I can bring my experience and passion to your projects!
+My unique path highlights my determination to push boundaries and explore new horizons.
 
 ##
 
